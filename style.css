@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color:blueviolet;
+    font-size: 50px;
+    font-family: arial;
+    text-align: center;
+}
+nav{
+    font-size: 25px;
+    font-weight: helvetica;
+    background-color: black;
+    width: 15%;
+
+}
+ul li{
+    list-style: none;
+}
+
+ul li a{
+    text-decoration: none;
+}
+article{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(255, 255, 255);
+    text-align:center
+}
+header{
+    background-color: rgb(157, 223, 241);
+    text-align:center;
+}
+.no-css{
+    color:rgb(255, 255, 255);
+}
+body{
+    margin: 0;
+}
+footer{
+    text-align: center;
+    font-size: 25px;
+}
+h5{
+    font-size: 50px;
+}
